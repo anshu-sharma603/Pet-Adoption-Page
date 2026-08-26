@@ -1,6 +1,6 @@
 # 🐾 AdoptMe — Pet Adoption Page--->
 
-> *"A gift of new life.."*
+> *"A gift of new life.."*...
 
 A warm and welcoming static web page built with **HTML** and **CSS** to help connect adorable pets with loving homes. Browse pet profiles, learn about their personalities, and take the first step toward adoption.
 
@@ -22,7 +22,7 @@ A warm and welcoming static web page built with **HTML** and **CSS** to help con
 
 ---
 
-## 🗂️ Project Structure
+## 🗂️ Project Structure-->
 
 ```
 pet-adoption-page/
