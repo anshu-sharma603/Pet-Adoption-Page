@@ -6,7 +6,7 @@ A warm and welcoming static web page built with **HTML** and **CSS** to help con
 
 ---
 
-## 📸 Preview
+## 📸 Preview-------
 
 ![AdoptMe Screenshot](screenshot.png)
 
