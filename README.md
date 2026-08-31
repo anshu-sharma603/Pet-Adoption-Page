@@ -1,4 +1,4 @@
-# 🐾 AdoptMe — Pet Adoption Page--->
+# 🐾 AdoptMe — Pet Adoption Page------>
 
 > *"A gift of new life.."*...
 
